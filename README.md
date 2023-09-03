@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @shakeer2508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @shakeer
+- 👀 I’m interested in doing various AI based learning
+- 🌱 I’m currently learning AI & ML at KRCE Tiruchirappalli
+- 💞️ I’m looking to collaborate on intern based  jobs
+- 📫 you can contact me @ shakidesha25@gmail.com
 
 <!---
 shakeer2508/shakeer2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
